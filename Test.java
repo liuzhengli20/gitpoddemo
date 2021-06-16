@@ -1,12 +1,16 @@
 
+
 class Test {
+
+    //private test2 t2 = new test2();
+
     public Test(){
 
 
     }
 
     public int add(int a,int b) {
-        return a + b;
+        return a+b;
     }
 
     public static void mian(String[] argv) {
